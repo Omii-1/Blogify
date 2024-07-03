@@ -1,0 +1,1 @@
+export const BACKEND_URL = `https://blogappbe-ynfs.onrender.com/api/v1`
